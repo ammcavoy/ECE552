@@ -1,0 +1,6 @@
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/cacheTest.asm SUCCESS CPI:4.2 CYCLES:535 ICOUNT:128 IHITRATE: 0 DHITRATE: 0
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/extraCreditTest.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/ldld.asm SUCCESS CPI:5.4 CYCLES:312 ICOUNT:58 IHITRATE: 0 DHITRATE: 0
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/ldst.asm SUCCESS CPI:4.4 CYCLES:445 ICOUNT:102 IHITRATE: 0 DHITRATE: 0
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/simple-exception-test.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/complex_demo3/ultimateTest.asm SUCCESS CPI:3.8 CYCLES:7612 ICOUNT:2003 IHITRATE: 0 DHITRATE: 0

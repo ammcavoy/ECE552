@@ -1,0 +1,15 @@
+          // Write your assembly program for Problem 1 (a) #2 here.
+          // Write your assembly program for Problem 1 (a) #1 here.
+          //SEQ Rd, Rs, Rt 
+          //if (Rs <= Rt) then Rd = 1 else Rd = 0
+          
+0000 c400 lbi r4, 0
+          
+0002 c105 lbi r1, 5
+          
+0004 c20a lbi r2, 10
+0006 8440 st r2, r4, 0
+0008 8ca0 ld r5, r4, 0
+000a e52c SEQ r3, r5, r1
+          //should return a 0, since r5 > r1
+000c 0000 halt

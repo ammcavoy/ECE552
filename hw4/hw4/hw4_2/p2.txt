@@ -1,0 +1,7 @@
+// Write your answer to Problem 2 (b) and (c) here
+in p2-1 r1 is loaded with the value of 100, and from there it is decremented by one all the way down to 0. There is a branch that will check if r1 is zero every time it is dec. if branchprediction isn't used then this instruction that occurs very frequently will slow down the entire proram as it will eval to false 100 times before it evals to true. There is another branch instruction that creates the loop dec. r1. If branch prediction isn't used and the next instruction is run in a branch delay spot the program will halt early since that is the inst. currently there.
+
+for p2-2 i just created a program that takes a bunch of branches around the program. If branch predictions aren't used programs like this that jump all over the place will be greatly delayed since it will have to wait for each branch to evaluate rather than use the prediction. 
+
+a branch prediction will not always take only one cycle. In the case of a load before the branch it will need to wait for that inst to complete taking more than one cycle. There is also the case of the prediction being incorrect, which will take multiple cycles to correct. 
+

@@ -1,0 +1,67 @@
+# Loading project hw3
+# reading /afs/cs.wisc.edu/s/mentor-2018/amd64_rhel6/modelsim_dlx/linuxpe/../modelsim.ini
+# Loading project demo1
+# Compile of alu.v failed with 7 errors.
+# Compile of and2.v was successful.
+# Compile of carrylogic.v was successful.
+# Compile of cla_4b.v was successful.
+# Compile of cla_16b.v was successful.
+# Compile of clkrst.v was successful.
+# Compile of control.v failed with 46 errors.
+# Compile of dec3_to_8.v was successful.
+# Compile of decode.v failed with 1 errors.
+# Compile of dff.v was successful.
+# Compile of execute.v failed with 14 errors.
+# Compile of fetch.v failed with 2 errors.
+# Compile of fullAdder_1b.v was successful.
+# Compile of memory.v failed with 1 errors.
+# Compile of memory2c.syn.v was successful.
+# Compile of memory2c.v was successful.
+# Compile of mux8_1_16b.v was successful.
+# Compile of proc.v failed with 2 errors.
+# Compile of proc_hier.v was successful.
+# Compile of proc_hier_bench.v was successful.
+# Compile of reg_16b.v was successful.
+# Compile of regFile.v was successful.
+# Compile of wb.v was successful.
+# 23 compiles, 7 failed with 73 errors.
+# Compile of proc.v failed with 1 errors.
+# Compile of proc.v failed with 2 errors.
+# Compile of proc.v was successful.
+# Compile of proc.v was successful.
+# Compile of fetch.v failed with 8 errors.
+# Compile of fetch.v failed with 1 errors.
+# Compile of fetch.v failed with 1 errors.
+# Compile of fetch.v was successful.
+# Compile of decode.v failed with 1 errors.
+# Compile of decode.v failed with 16 errors.
+# Compile of decode.v was successful.
+# Compile of fetch.v was successful.
+# Compile of execute.v failed with 14 errors.
+# Compile of execute.v failed with 13 errors.
+# Compile of execute.v failed with 13 errors.
+# Compile of execute.v failed with 12 errors.
+# Compile of execute.v failed with 8 errors.
+# Compile of execute.v failed with 4 errors.
+# Compile of execute.v failed with 1 errors.
+# Compile of execute.v was successful.
+# Compile of alu.v failed with 7 errors.
+# Compile of alu.v failed with 1 errors.
+# Compile of alu.v failed with 1 errors.
+# Compile of alu.v failed with 26 errors.
+# Compile of alu.v was successful.
+# Compile of memory.v failed with 1 errors.
+# Compile of memory.v failed with 12 errors.
+# Compile of memory.v was successful.
+# Compile of control.v failed with 46 errors.
+# Compile of control.v failed with 19 errors.
+# Compile of control.v failed with 8 errors.
+# Compile of control.v failed with 3 errors.
+# Compile of control.v failed with 2 errors.
+# Compile of control.v was successful.
+# Compile of control.v was successful.
+# Compile of proc.v was successful.
+# Compile of control.v was successful.
+# Compile of fetch.v was successful.
+# Compile of proc.v was successful.
+# Compile of proc_hier_bench.v was successful.

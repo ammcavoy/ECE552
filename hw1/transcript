@@ -1,0 +1,339 @@
+# Loading project hw1_2
+# Compile of nor4.v was successful.
+# Compile of nor3.v was successful.
+# Compile of nand4.v was successful.
+# Compile of cla_4b.v failed with 34 errors.
+# Compile of cla_4b.v failed with 17 errors.
+# Compile of cla_4b.v failed with 9 errors.
+# Compile of cla_4b.v failed with 6 errors.
+# Compile of cla_4b.v failed with 4 errors.
+# Compile of cla_4b.v was successful.
+# Compile of cla_16b.v was successful.
+# Compile of cla_4b.v was successful.
+vsim work.cla_16b_bench
+# vsim work.cla_16b_bench 
+# Start time: 20:11:51 on Feb 13,2022
+# //  ModelSim DE 10.7c Aug 17 2018Linux 5.4.0-99-generic
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim DE and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.cla_16b_bench
+# Loading work.clkrst
+# Loading work.cla_16b
+# Loading work.cla_4b
+# Loading work.nor2
+# Loading work.not1
+# Loading work.nand2
+# Loading work.nand3
+# Loading work.nor3
+# Loading work.nand4
+# Loading work.nor4
+# Loading work.fullAdder_1b
+# Loading work.xor2
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'cla0'.  Expected 5, found 4.
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0 File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v Line: 19
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v(19): [TFMPC] - Missing connection for port 'b'.
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'cla1'.  Expected 5, found 4.
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1 File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v Line: 20
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v(20): [TFMPC] - Missing connection for port 'b'.
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'cla2'.  Expected 5, found 4.
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2 File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v Line: 21
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v(21): [TFMPC] - Missing connection for port 'b'.
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'cla3'.  Expected 5, found 4.
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3 File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v Line: 22
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b.v(22): [TFMPC] - Missing connection for port 'b'.
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# Error loading design
+# End time: 20:11:53 on Feb 13,2022, Elapsed time: 0:00:02
+# Errors: 24, Warnings: 8
+# Compile of cla_16b.v was successful.
+vsim work.cla_16b_bench
+# vsim work.cla_16b_bench 
+# Start time: 20:14:15 on Feb 13,2022
+# Loading work.cla_16b_bench
+# Loading work.clkrst
+# Loading work.cla_16b
+# Loading work.cla_4b
+# Loading work.nor2
+# Loading work.not1
+# Loading work.nand2
+# Loading work.nand3
+# Loading work.nor3
+# Loading work.nand4
+# Loading work.nor4
+# Loading work.fullAdder_1b
+# Loading work.xor2
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla0/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla1/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla2/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 26
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g0_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 28
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 31
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g1_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 33
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/p2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 36
+# ** Error: (vsim-3063) Port 'in' not found in the connected module (2nd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /cla_16b_bench/DUT/cla3/g2_g File: /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_4b.v Line: 38
+# Error loading design
+# End time: 20:14:16 on Feb 13,2022, Elapsed time: 0:00:01
+# Errors: 24, Warnings: 0
+# Compile of cla_4b.v was successful.
+# Compile of cla_16b_bench.v was successful.
+# Compile of cla_16b.v was successful.
+vsim work.cla_16b_bench
+# vsim work.cla_16b_bench 
+# Start time: 20:20:22 on Feb 13,2022
+# Loading work.cla_16b_bench
+# Loading work.clkrst
+# Loading work.cla_16b
+# Loading work.cla_4b
+# Loading work.nor2
+# Loading work.not1
+# Loading work.nand2
+# Loading work.nand3
+# Loading work.nor3
+# Loading work.nand4
+# Loading work.nor4
+# Loading work.fullAdder_1b
+# Loading work.xor2
+add wave -position insertpoint sim:/cla_16b_bench/DUT/*
+run -all
+# A: 03524, B: 05e81, Sum: xxXX, Golden Sum: 093a6
+# ERRORCHECK Sum error
+# A: 05663, B: 07b0d, Sum: xXxX, Golden Sum: 0d171
+# ERRORCHECK Sum error
+# A: 08465, B: 05212, Sum: XXXX, Golden Sum: 0d678
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0cd0d, B: 0f176, Sum: xXxX, Golden Sum: 1be84
+# ERRORCHECK Sum error
+# A: 057ed, B: 0f78c, Sum: XXXX, Golden Sum: 14f7a
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 024c6, B: 084c5, Sum: XXXX, Golden Sum: 0a98b
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0f7e5, B: 07277, Sum: XxXX, Golden Sum: 16a5c
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0db8f, B: 069f2, Sum: XXxX, Golden Sum: 14581
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 07ae8, B: 04ec5, Sum: XXxX, Golden Sum: 0c9ad
+# ERRORCHECK Sum error
+# A: 028bd, B: 0582d, Sum: XxXX, Golden Sum: 080eb
+# ERRORCHECK Sum error
+# A: 06263, B: 0870a, Sum: XXxX, Golden Sum: 0e96d
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 02120, B: 045aa, Sum: XxxX, Golden Sum: 066cb
+# ERRORCHECK Sum error
+# A: 03e96, B: 0b813, Sum: XxXX, Golden Sum: 0f6aa
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0d653, B: 0dd6b, Sum: xXxX, Golden Sum: 1b3bf
+# ERRORCHECK Sum error
+# A: 04a02, B: 03eae, Sum: XxxX, Golden Sum: 088b1
+# ERRORCHECK Sum error
+# A: 072cf, B: 04923, Sum: xxxX, Golden Sum: 0bbf2
+# ERRORCHECK Sum error
+# A: 00aca, B: 04c3c, Sum: XxXX, Golden Sum: 05706
+# ERRORCHECK Sum error
+# A: 0618a, B: 0b341, Sum: XxxX, Golden Sum: 114cb
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0f378, B: 01289, Sum: XxXX, Golden Sum: 10602
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 065b6, B: 0f9c6, Sum: xXXX, Golden Sum: 15f7c
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 002bc, B: 0dd2a, Sum: xxXX, Golden Sum: 0dfe7
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0be71, B: 04185, Sum: xxXX, Golden Sum: 0fff7
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0603b, B: 0333a, Sum: XXXX, Golden Sum: 09375
+# ERRORCHECK Sum error
+# A: 04b15, B: 09bf1, Sum: XxXX, Golden Sum: 0e707
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 00762, B: 0fb4c, Sum: xXxX, Golden Sum: 102af
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0a18f, B: 0a9f8, Sum: xXXX, Golden Sum: 14b88
+# ERRORCHECK Sum error
+# A: 0569f, B: 0945c, Sum: XxXX, Golden Sum: 0eafc
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 03789, B: 03249, Sum: XxXX, Golden Sum: 069d2
+# ERRORCHECK Sum error
+# A: 0c0d7, B: 0fc51, Sum: xxXX, Golden Sum: 1bd28
+# ERRORCHECK Sum error
+# A: 07f0c, B: 0cec2, Sum: XxxX, Golden Sum: 14dce
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 05a77, B: 0ed3d, Sum: XXxX, Golden Sum: 147b4
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# A: 0007e, B: 0816d, Sum: XXXX, Golden Sum: 081ec
+# ERRORCHECK Sum error
+# ERRORCHECK CO error
+# ** Note: $finish    : /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b_bench.v(20)
+#    Time: 3200 ns  Iteration: 0  Instance: /cla_16b_bench
+# 1
+# Break in Module cla_16b_bench at /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b_bench.v line 20
+quit -sim
+# End time: 20:43:30 on Feb 13,2022, Elapsed time: 0:23:08
+# Errors: 0, Warnings: 0
+# Compile of cla_4b.v was successful.
+vsim work.cla_16b_bench
+# vsim work.cla_16b_bench 
+# Start time: 20:44:01 on Feb 13,2022
+# Loading work.cla_16b_bench
+# Loading work.clkrst
+# Loading work.cla_16b
+# Loading work.cla_4b
+# Loading work.nor2
+# Loading work.not1
+# Loading work.nand2
+# Loading work.nand3
+# Loading work.nor3
+# Loading work.nand4
+# Loading work.nor4
+# Loading work.fullAdder_1b
+# Loading work.xor2
+add wave -position insertpoint sim:/cla_16b_bench/DUT/*
+run -all
+# A: 03524, B: 05e81, Sum: 93a6, Golden Sum: 093a6
+# A: 05663, B: 07b0d, Sum: d171, Golden Sum: 0d171
+# A: 08465, B: 05212, Sum: d678, Golden Sum: 0d678
+# A: 0cd0d, B: 0f176, Sum: be84, Golden Sum: 1be84
+# A: 057ed, B: 0f78c, Sum: 4f7a, Golden Sum: 14f7a
+# A: 024c6, B: 084c5, Sum: a98b, Golden Sum: 0a98b
+# A: 0f7e5, B: 07277, Sum: 6a5c, Golden Sum: 16a5c
+# A: 0db8f, B: 069f2, Sum: 4581, Golden Sum: 14581
+# A: 07ae8, B: 04ec5, Sum: c9ad, Golden Sum: 0c9ad
+# A: 028bd, B: 0582d, Sum: 80eb, Golden Sum: 080eb
+# A: 06263, B: 0870a, Sum: e96d, Golden Sum: 0e96d
+# A: 02120, B: 045aa, Sum: 66cb, Golden Sum: 066cb
+# A: 03e96, B: 0b813, Sum: f6aa, Golden Sum: 0f6aa
+# A: 0d653, B: 0dd6b, Sum: b3bf, Golden Sum: 1b3bf
+# A: 04a02, B: 03eae, Sum: 88b1, Golden Sum: 088b1
+# A: 072cf, B: 04923, Sum: bbf2, Golden Sum: 0bbf2
+# A: 00aca, B: 04c3c, Sum: 5706, Golden Sum: 05706
+# A: 0618a, B: 0b341, Sum: 14cb, Golden Sum: 114cb
+# A: 0f378, B: 01289, Sum: 0602, Golden Sum: 10602
+# A: 065b6, B: 0f9c6, Sum: 5f7c, Golden Sum: 15f7c
+# A: 002bc, B: 0dd2a, Sum: dfe7, Golden Sum: 0dfe7
+# A: 0be71, B: 04185, Sum: fff7, Golden Sum: 0fff7
+# A: 0603b, B: 0333a, Sum: 9375, Golden Sum: 09375
+# A: 04b15, B: 09bf1, Sum: e707, Golden Sum: 0e707
+# A: 00762, B: 0fb4c, Sum: 02af, Golden Sum: 102af
+# A: 0a18f, B: 0a9f8, Sum: 4b88, Golden Sum: 14b88
+# A: 0569f, B: 0945c, Sum: eafc, Golden Sum: 0eafc
+# A: 03789, B: 03249, Sum: 69d2, Golden Sum: 069d2
+# A: 0c0d7, B: 0fc51, Sum: bd28, Golden Sum: 1bd28
+# A: 07f0c, B: 0cec2, Sum: 4dce, Golden Sum: 14dce
+# A: 05a77, B: 0ed3d, Sum: 47b4, Golden Sum: 147b4
+# A: 0007e, B: 0816d, Sum: 81ec, Golden Sum: 081ec
+# ** Note: $finish    : /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b_bench.v(20)
+#    Time: 3200 ns  Iteration: 0  Instance: /cla_16b_bench
+# 1
+# Break in Module cla_16b_bench at /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw1_2/cla_16b_bench.v line 20
+# End time: 21:03:02 on Feb 13,2022, Elapsed time: 0:19:01
+# Errors: 0, Warnings: 0

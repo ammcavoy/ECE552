@@ -1,0 +1,13 @@
+          // Write your assembly program for Problem 1 (a) #1 here.
+          
+          // Load 0x0001 into register r1.
+0000 c101 lbi r1, 1
+          
+          // Add 0x0001 to the contents of register r1 and store in r2. This 
+          // instruction has a RAW dependency on the previous one, so it should 
+          // demonstrate EX-EX forwarding. We expect the contents of r2 to be
+          // 0x0002 after this instruction completes. 
+0002 4141 addi r2, r1, 1
+          
+0004 0000 halt
+          

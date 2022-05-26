@@ -1,0 +1,57 @@
+/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/and2.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/and2.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/regFile_bypass_hier.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/regFile_bypass_hier.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module regFile_bypass_hier
+
+Top level modules:
+	regFile_bypass_hier
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/mux8_1_16b.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/mux8_1_16b.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module mux8_1_16b
+
+Top level modules:
+	mux8_1_16b
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/tb_regFile_bypass_hier.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/tb_regFile_bypass_hier.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module tb_regFile_bypass_hier
+
+Top level modules:
+	tb_regFile_bypass_hier
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/clkrst.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/clkrst.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module clkrst
+
+Top level modules:
+	clkrst
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/regFile_bypass.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/regFile_bypass.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module regFile_bypass
+
+Top level modules:
+	regFile_bypass
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/dff.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/dff.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/dec3_to_8.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3/mcavoy_hw3/hw3/hw3_2/dec3_to_8.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module dec3_to_8
+
+Top level modules:
+	dec3_to_8
+
+} {} {}}

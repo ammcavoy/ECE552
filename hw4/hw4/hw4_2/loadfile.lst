@@ -1,0 +1,22 @@
+          // Write your assembly program for Problem 2 (a) #2 here.
+          
+0000 c119 lbi r1, 25
+          
+0002      .label1:
+0002 6908 bnez r1, .label6
+           
+          
+0004      .label2:
+0004 61fc beqz r1, .label1
+          
+0006      .label3:
+0006 6902 bnez r1, .label5
+          
+0008      .label4:
+0008 0000 halt
+          
+000a      .label5:
+000a 69fc bnez r1, .label4
+          
+000c      .label6:
+000c 69f6 bnez r1, .label2

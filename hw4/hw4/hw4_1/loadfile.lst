@@ -1,0 +1,17 @@
+          // Write your assembly program for Problem 1 (a) #3 here.
+          // Write your assembly program for Problem 1 (a) #1 here.
+          //SEQ Rd, Rs, Rt 
+          //if (Rs <= Rt) then Rd = 1 else Rd = 0
+          
+0000 c100 lbi r1, 0
+0002 c200 lbi r2, 0 
+          //all zeros edge case
+0004 e14c SEQ r3, r1, r2
+          //should return a 1 since 0 == 0 
+          
+0006 c4ff lbi r4, -1
+0008 c5ff lbi r5, -1
+          //all ones edge case
+000a e4b8 SEQ r6, r4, r5
+          //should return a 1 since all 1's == all 1's
+000c 0000 halt

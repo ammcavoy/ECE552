@@ -1,0 +1,474 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw3
+valu
+Z0 !s110 1646731525
+!i10b 1
+!s100 m^mQVEOmQ7jc9[Pja8:0Q0
+I;K9:IRLP`j[ILkJ?FD0Q70
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1
+w1646729585
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/alu.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/alu.v
+L0 12
+Z3 OP;L;10.7c;67
+r1
+!s85 0
+31
+Z4 !s108 1646731525.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vand2
+R0
+!i10b 1
+!s100 EW]F4hD?9J`dOW87SP2eR1
+IU@DlGWe0^`JGEK`ol[z2<0
+R1
+R2
+w1646632333
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/and2.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/and2.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/and2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/and2.v|
+!i113 1
+R5
+R6
+vcarrylogic
+Z7 !s110 1646731526
+!i10b 1
+!s100 f?GYIN;nOOlI69o]gFi200
+I4zS2nPbWXlM<^o;kU<E>h2
+R1
+R2
+w1646601758
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/carrylogic.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/carrylogic.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1646731526.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/carrylogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/carrylogic.v|
+!i113 1
+R5
+R6
+vcla_16b
+Z9 !s110 1646731527
+!i10b 1
+!s100 JMPb7m[D4k6b4`:PD8Hn_0
+I:<mNYjggA]AL`J6llZMH>2
+R1
+R2
+w1646601914
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_16b.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_16b.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z10 !s108 1646731527.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_16b.v|
+!i113 1
+R5
+R6
+vcla_4b
+R7
+!i10b 1
+!s100 2=SkgA1W>=Wkg6;l`MOWL2
+I;[zKC87MEfNa7mMmVl^m^0
+R1
+R2
+w1646601870
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_4b.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_4b.v
+L0 8
+R3
+r1
+!s85 0
+31
+R8
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/cla_4b.v|
+!i113 1
+R5
+R6
+vclkrst
+R9
+!i10b 1
+!s100 17R8;?7`BJD8F]2OJne>o0
+IlY5@ncPGj293ADIRYFcg13
+R1
+R2
+w1646504881
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/clkrst.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/clkrst.v
+L0 13
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/clkrst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/clkrst.v|
+!i113 1
+R5
+R6
+vcontrol
+R9
+!i10b 1
+!s100 kSSRF`e4^9WZdl60RcoOo3
+I4b@V3oXS_]<h9kZ<cUcTg2
+R1
+R2
+w1646730795
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/control.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/control.v|
+!i113 1
+R5
+R6
+vdec3_to_8
+Z11 !s110 1646731528
+!i10b 1
+!s100 cjW4bWTffjho9=O1EHMRS3
+I^I?5>cOX8oAHMNUm^n`M50
+R1
+R2
+w1646632327
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dec3_to_8.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dec3_to_8.v
+Z12 L0 10
+R3
+r1
+!s85 0
+31
+Z13 !s108 1646731528.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dec3_to_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dec3_to_8.v|
+!i113 1
+R5
+R6
+vdecode
+R11
+!i10b 1
+!s100 H37o>mPUBbV82LC4OQVf21
+I4mVHUKoLP0LLoi77FYC[M2
+R1
+R2
+w1646718653
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/decode.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/decode.v
+L0 8
+R3
+r1
+!s85 0
+31
+R13
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/decode.v|
+!i113 1
+R5
+R6
+vdff
+R11
+!i10b 1
+!s100 F^G8EIaUgKJ6DQB2zBzd^2
+IXVZ@Ln`QmUUkZkIST4`nc1
+R1
+R2
+w1646632224
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dff.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dff.v
+L0 6
+R3
+r1
+!s85 0
+31
+R13
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/dff.v|
+!i113 1
+R5
+R6
+vexecute
+!s110 1646720845
+!i10b 1
+!s100 IBY6NBlF=i<j3OJ]]N_od0
+IMzajkhY[Jf6OQ[DC9g1PF0
+R1
+R2
+w1646717432
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/execute.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/execute.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1646720845.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/execute.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/execute.v|
+!i113 1
+R5
+R6
+vfetch
+Z14 !s110 1646731529
+!i10b 1
+!s100 ZjH:9Zc<<W=FU2J<KiR;J1
+Ihb<??W^cGGT0BPjT0kV_G1
+R1
+R2
+w1646722920
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fetch.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fetch.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z15 !s108 1646731529.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fetch.v|
+!i113 1
+R5
+R6
+vfullAdder_1b
+R14
+!i10b 1
+!s100 KO3bJg=1fn5CIDHQMhaeG0
+IfSTKzAV`Rh0]O2^2o3a^S3
+R1
+R2
+w1646601830
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fullAdder_1b.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fullAdder_1b.v
+L0 8
+R3
+r1
+!s85 0
+31
+R15
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fullAdder_1b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/fullAdder_1b.v|
+!i113 1
+R5
+R6
+nfull@adder_1b
+vmemory
+Z16 !s110 1646731530
+!i10b 1
+!s100 c52biDiOd^KHKPAW^ZV;j2
+I0ZfL7a]1:DfHAYJE;9Q@:3
+R1
+R2
+w1646727271
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory.v
+L0 9
+R3
+r1
+!s85 0
+31
+R15
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory.v|
+!i113 1
+R5
+R6
+vmemory2c
+R16
+!i10b 1
+!s100 1ITXY4ZWd3SeI8Nl4zmz13
+Ic]cagf_O?YB01IgAP8EIJ2
+R1
+R2
+w1646610924
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory2c.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory2c.v
+L0 35
+R3
+r1
+!s85 0
+31
+!s108 1646731530.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/memory2c.v|
+!i113 1
+R5
+R6
+vmux8_1_16b
+Z17 !s110 1646731532
+!i10b 1
+!s100 LJ@O;mMFdj2CajE_L]C`R2
+InZ^IaD_;1Kn8B<Zmi`3cN2
+R1
+R2
+w1646632346
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/mux8_1_16b.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/mux8_1_16b.v
+L0 7
+R3
+r1
+!s85 0
+31
+Z18 !s108 1646731532.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/mux8_1_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/mux8_1_16b.v|
+!i113 1
+R5
+R6
+vproc
+R17
+!i10b 1
+!s100 67<>zEj85:EVh^_SBYPZ]3
+I>VXH4zco@zbO3CR3ZO?Vn2
+R1
+R2
+w1646731470
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc.v
+L0 5
+R3
+r1
+!s85 0
+31
+R18
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc.v|
+!i113 1
+R5
+R6
+vproc_hier
+Z19 !s110 1646731533
+!i10b 1
+!s100 jGH_<J>T7TGh^mfl9i`Fo2
+ITH?MTlVO?;?Zb6aGNj?:H2
+R1
+R2
+w1646504514
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z20 !s108 1646731533.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier.v|
+!i113 1
+R5
+R6
+vproc_hier_bench
+R19
+!i10b 1
+!s100 OIMeL?@KYFnKfgWNI5;h;1
+IN?QJiBfTU[YAcRh;d_<]52
+R1
+R2
+w1646724815
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier_bench.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier_bench.v
+L0 5
+R3
+r1
+!s85 0
+31
+R20
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/proc_hier_bench.v|
+!i113 1
+R5
+R6
+vreg_16b
+R19
+!i10b 1
+!s100 FBjQ2kEKT=`L2l>:Uf7kN3
+Id1oWIK<zRfdR?787V`d1h2
+R1
+R2
+w1646649009
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/reg_16b.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/reg_16b.v
+L0 8
+R3
+r1
+!s85 0
+31
+R20
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/reg_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/reg_16b.v|
+!i113 1
+R5
+R6
+vregFile
+Z21 !s110 1646731534
+!i10b 1
+!s100 Phn8^`c8U4_C8WUAhe;ki3
+IkbjJ5=W>0bke6>XSk<N3N0
+R1
+R2
+w1646632319
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/regFile.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/regFile.v
+R12
+R3
+r1
+!s85 0
+31
+Z22 !s108 1646731534.000000
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/regFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/regFile.v|
+!i113 1
+R5
+R6
+nreg@file
+vwb
+R21
+!i10b 1
+!s100 ZR`ac8@98ZfbbmNfkCDQ92
+I;CTj`z1Oh0LLQg0ifn]b12
+R1
+R2
+w1646504371
+8/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/wb.v
+F/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/wb.v
+L0 8
+R3
+r1
+!s85 0
+31
+R22
+!s107 /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/phase1/project/demo1/verilog/wb.v|
+!i113 1
+R5
+R6

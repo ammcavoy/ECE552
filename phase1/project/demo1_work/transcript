@@ -1,0 +1,25 @@
+# Loading project demo1
+# Compile of alu.v was successful.
+# Compile of and2.v was successful.
+# Compile of carrylogic.v was successful.
+# Compile of cla_4b.v was successful.
+# Compile of cla_16b.v was successful.
+# Compile of clkrst.v was successful.
+# Compile of control.v was successful.
+# Compile of dec3_to_8.v was successful.
+# Compile of decode.v was successful.
+# Compile of dff.v was successful.
+# Compile of execute.v failed with 1 errors.
+# Compile of fetch.v was successful.
+# Compile of fullAdder_1b.v was successful.
+# Compile of memory.v was successful.
+# Compile of memory2c.syn.v was successful.
+# Compile of memory2c.v was successful.
+# Compile of mux8_1_16b.v was successful.
+# Compile of proc.v was successful.
+# Compile of proc_hier.v was successful.
+# Compile of proc_hier_bench.v was successful.
+# Compile of reg_16b.v was successful.
+# Compile of regFile.v was successful.
+# Compile of wb.v was successful.
+# 23 compiles, 1 failed with 1 error.

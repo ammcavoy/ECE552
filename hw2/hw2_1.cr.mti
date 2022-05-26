@@ -1,0 +1,64 @@
+/afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/mux2_1.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/mux2_1.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter_hier.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter_hier.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module shifter_hier
+
+Top level modules:
+	shifter_hier
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/right_shifter.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/right_shifter.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module right_shifter
+
+Top level modules:
+	right_shifter
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/not1.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/not1.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module not1
+
+Top level modules:
+	not1
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/left_shifter.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/left_shifter.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module left_shifter
+
+Top level modules:
+	left_shifter
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/clkrst.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/clkrst.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module clkrst
+
+Top level modules:
+	clkrst
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/nand2.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/nand2.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module nand2
+
+Top level modules:
+	nand2
+
+} {} {}} /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter_hier_bench.v {1 {vlog -work work -stats=none /afs/cs.wisc.edu/u/m/c/mcavoy/private/cs552/hw2/mcavoy-hw2/hw2_1/shifter_hier_bench.v
+Model Technology ModelSim DE vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module shifter_hier_bench
+
+Top level modules:
+	shifter_hier_bench
+
+} {} {}}
